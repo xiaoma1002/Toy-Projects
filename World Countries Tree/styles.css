@@ -1,0 +1,14 @@
+path {
+  fill: none;
+  stroke: #9ef6e2; 
+}
+
+text {
+	text-shadow:
+    -1px -1px 3px white,
+    -1px  1px 3px white,
+     1px -1px 3px white,
+     1px  1px 3px white;
+  pointer-events: none;// does not show cursor anymore
+  font-family: 'Playfair Display', serif;
+}
